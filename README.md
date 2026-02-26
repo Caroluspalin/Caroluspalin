@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/[GitHub Käyttäjänimesi]">
+  <a href="https://github.com/[Caroluspalin]">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Solving+problems+with+code;Always+learning+new+tech" alt="Typing SVG" />
   </a>
 </p>
