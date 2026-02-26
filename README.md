@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **[School work and personal projects]**
-- 🌱 I’m currently learning **[React]**
+- 🌱 I’m currently learning **[React and Typescript]**
 - 💡 I love building scalable applications and creating intuitive, user-friendly interfaces.
 - 📫 How to reach me: **[Caroluspalin@icloud.com  ]**
 
@@ -50,10 +50,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GitHub Käyttäjänimesi]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Caroluspalin]&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[GitHub Käyttäjänimesi]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Caroluspalin]&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
