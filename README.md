@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm [Sinun Nimesi] 👋</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h1 align="center">Hi there, I'm [Carolus Palin] 👋</h1>
+<h3 align="center">A Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/[GitHub Käyttäjänimesi]">
