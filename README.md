@@ -9,12 +9,12 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🔭 I’m currently working on **[School work and personal projects]**
-- 🌱 I’m currently learning **[React and Typescript]**
-- 💡 I love building scalable applications and creating intuitive, user-friendly interfaces.
-- 📫 How to reach me: **[Caroluspalin@icloud.com  ]**
+-  I’m currently working on **[School work and personal projects]**
+-  I’m currently learning **[React and Typescript]**
+-  I love building scalable applications and creating intuitive, user-friendly interfaces.
+-  How to reach me: **[Caroluspalin@icloud.com  ]**
 
 ---
 
