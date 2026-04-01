@@ -67,14 +67,6 @@
 
 ---
 
-###  Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Caroluspalin/Caroluspalin/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ###  Let's Connect
 
 <p align="left">
