@@ -54,11 +54,11 @@
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caroluspalin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caroluspalin&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroluspalin&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroluspalin&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 <p align="center">
