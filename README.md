@@ -15,15 +15,6 @@ Currently studying software development and always shipping side projects.
 
 ---
 
-### 🔭 What I'm Working On
-
-- **Enterprise RAG Framework** — AI chatbot for B2B teams: ask your internal PDFs anything. FastAPI + Next.js + ChromaDB with streaming UI, role-based auth, and admin panel.
-- **Lead Generator** — Automated pipeline that finds local businesses needing web services via Google Places grid search + website analysis.
-- **Booking System** — Full business page with client-facing booking system.
-- **Spotify Wrapped Clone** — Full-stack music analytics app with custom SQL backend, real-time tracking, and glassmorphism UI.
-
----
-
 ### 🛠 Tech Stack
 
 **Languages**
