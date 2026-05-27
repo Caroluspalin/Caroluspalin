@@ -1,79 +1,89 @@
-<h1 align="center">Hi there, I'm Carolus Palin 👋</h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Caroluspalin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Solving+problems+with+code;Always+learning+new+tech" />
-  </a>
-</p>
+# Hey, I'm Carolus 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Caroluspalin&color=blueviolet&style=flat-square&label=Visitor+Count" />
-</p>
+**Full-Stack Developer from Finland**
 
----
+I build modern web applications, backend systems, and AI-powered tools.  
+Currently studying software development and always shipping side projects.
 
-### About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroluspalin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caroluspalin@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caroluspalin)
 
-- I’m currently working on **School work and personal projects**
-- I’m currently learning **React and TypeScript**
-- I love building scalable applications and creating intuitive, user-friendly interfaces.
-- How to reach me: **Caroluspalin@icloud.com**
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🔭 What I'm Working On
 
-#### Front-End
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### Back-End & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-</p>
-
-#### Tools & Other
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+- **Enterprise RAG Framework** — AI chatbot for B2B teams: ask your internal PDFs anything. FastAPI + Next.js + ChromaDB with streaming UI, role-based auth, and admin panel.
+- **Lead Generator** — Automated pipeline that finds local businesses needing web services via Google Places grid search + website analysis.
+- **Booking System** — Full business page with client-facing booking system.
+- **Spotify Wrapped Clone** — Full-stack music analytics app with custom SQL backend, real-time tracking, and glassmorphism UI.
 
 ---
 
-###  GitHub Stats
+### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Caroluspalin&show_icons=true&theme=radical&cache_seconds=86400" />
-</p>
+**Languages**
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caroluspalin&layout=compact&theme=radical&cache_seconds=86400" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Caroluspalin&theme=radical" />
-</p>
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logoColor=white)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-F59E0B?style=flat&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ---
 
-###  Let's Connect
+### 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/caroluspalin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:caroluspalin@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Caroluspalin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caroluspalin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&text_color=38bdae&langs_count=8" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Caroluspalin&theme=tokyonight&hide_border=true&background=00000000&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Currently learning Java (Spring Boot), deepening my React + TypeScript skills, and exploring AI/ML with Python.*
+
+</div>
