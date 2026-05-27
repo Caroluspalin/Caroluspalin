@@ -64,10 +64,9 @@ Currently studying software development and always shipping side projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Caroluspalin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="165" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caroluspalin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70a5fd&text_color=38bdae&langs_count=8" height="165" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Caroluspalin&theme=tokyonight&hide_border=true&background=00000000&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caroluspalin&theme=tokyonight" />
 
 </div>
 
