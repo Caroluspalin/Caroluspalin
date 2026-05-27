@@ -66,10 +66,6 @@ Currently studying software development and always shipping side projects.
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Caroluspalin&theme=tokyonight&hide_border=true&background=00000000&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caroluspalin&theme=tokyonight" />
-
-</div>
-
 ---
 
 <div align="center">
