@@ -19,9 +19,8 @@ Looking for a software development internship starting January 2027.
 - **[Enterprise-RAG-Framework](https://github.com/Caroluspalin/Enterprise-RAG-Framework)** – chatbot for internal PDFs with source citations. FastAPI, LangChain, ChromaDB, Next.js.
 - **[grocery-agent](https://github.com/Caroluspalin/grocery-agent)** – AI agent that builds grocery lists for a diet and budget. Python, SQLite.
 - **[GolfTracker](https://github.com/Caroluspalin/GolfTracker)** – golf round tracker. Java, Spring Boot, PostgreSQL.
-- **[AbsenceCalculator](https://github.com/Caroluspalin/AbsenceCalculator)** – planner for students working alongside studies. React, TypeScript, Supabase.
-- **[sql-playground](https://github.com/Caroluspalin/sql-playground)** – SQL exercises that run in the browser. React, sql.js.
 
+More in my [repositories](https://github.com/Caroluspalin?tab=repositories).
 ### Tech
 
 **Languages**
@@ -69,6 +68,7 @@ Looking for a software development internship starting January 2027.
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 <br>
 
