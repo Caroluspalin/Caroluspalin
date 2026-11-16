@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hey, I'm Carolus 👋
+# Carolus Palin
 
-**Full-Stack Developer · IT student at Haaga-Helia · Helsinki, Finland**
+Full-stack developer and IT student at Haaga-Helia, Helsinki.
+I also run [Palin Web](https://palinweb.fi), building websites for small local businesses.
 
-I build web apps, backend APIs and AI tools, and I run a small web studio, [Palin Web](https://palinweb.fi), that makes websites for local businesses.
-
-🔎 **Open to a software development internship from January 2027**
+Looking for a software development internship starting January 2027.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroluspalin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caroluspalin@icloud.com)
@@ -14,24 +13,16 @@ I build web apps, backend APIs and AI tools, and I run a small web studio, [Pali
 
 </div>
 
----
+### Projects
 
-### 🚀 Featured projects
+- **[Lead-Generator](https://github.com/Caroluspalin/Lead-Generator)** – sales tool I use for Palin Web. Finds local businesses, scores them and generates demo sites. React, FastAPI, Supabase, Cloudflare.
+- **[Enterprise-RAG-Framework](https://github.com/Caroluspalin/Enterprise-RAG-Framework)** – chatbot for internal PDFs with source citations. FastAPI, LangChain, ChromaDB, Next.js.
+- **[grocery-agent](https://github.com/Caroluspalin/grocery-agent)** – AI agent that builds grocery lists for a diet and budget. Python, SQLite.
+- **[GolfTracker](https://github.com/Caroluspalin/GolfTracker)** – golf round tracker. Java, Spring Boot, PostgreSQL.
+- **[AbsenceCalculator](https://github.com/Caroluspalin/AbsenceCalculator)** – planner for students working alongside studies. React, TypeScript, Supabase.
+- **[sql-playground](https://github.com/Caroluspalin/sql-playground)** – SQL exercises that run in the browser. React, sql.js.
 
-| Project | What it does | Built with |
-|---|---|---|
-| [**Lead-Generator**](https://github.com/Caroluspalin/Lead-Generator) | The sales tool behind Palin Web: finds and scores local businesses, analyses their websites, generates demo sites and outreach. In real use. | React, TypeScript, FastAPI, Supabase, Cloudflare R2/Workers, Google Places API, OpenAI |
-| [**Enterprise-RAG-Framework**](https://github.com/Caroluspalin/Enterprise-RAG-Framework) | Chat with your company PDFs. Answers come with source citations; the LLM can be swapped between OpenAI, Claude and Ollama. | FastAPI, LangChain, ChromaDB, Next.js, Auth.js, pytest, Ragas, GitHub Actions |
-| [**grocery-agent**](https://github.com/Caroluspalin/grocery-agent) | AI agent that builds grocery lists for a diet and budget with a custom tool-use loop. | Python, LLM tool calling, SQLite |
-| [**GolfTracker**](https://github.com/Caroluspalin/GolfTracker) | Log golf rounds and see stats relative to par, with role-based access. | Java, Spring Boot, Spring Security, PostgreSQL |
-| [**AbsenceCalculator**](https://github.com/Caroluspalin/AbsenceCalculator) | Planner for students juggling studies and shifts: absence limits and projected income in one view. | React, TypeScript, Supabase, Tailwind |
-| [**sql-playground**](https://github.com/Caroluspalin/sql-playground) | SQL practice in the browser with 30 auto-checked exercises, no backend. | React, TypeScript, sql.js (WebAssembly) |
-
-🌐 Live: [palinweb.fi](https://palinweb.fi) · [Palin Cuts booking demo](https://caroluspalin.github.io/BookingSystem/index.html)
-
----
-
-### 🛠 Tech stack
+### Tech
 
 **Languages**
 
@@ -62,39 +53,26 @@ I build web apps, backend APIs and AI tools, and I run a small web studio, [Pali
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 
-**AI / LLM**
+**AI**
 
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat&logoColor=white)
 
-**Testing, DevOps & Cloud**
+**Tools**
 
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages_·_R2_·_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
-### 🌱 Right now
-
-- Finishing my last courses (testing, test automation, databases, NoSQL, ML & AI software development)
-- Growing **Palin Web** and its sales tool
-- I build with AI tools (Claude Code, Cursor) and make a point of understanding and being able to explain every line I ship
-
----
-
-<div align="center">
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caroluspalin/Caroluspalin/output/github-snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Caroluspalin/Caroluspalin/output/github-snake.svg" />
 </picture>
-
-</div>
