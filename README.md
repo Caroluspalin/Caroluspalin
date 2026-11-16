@@ -2,20 +2,36 @@
 
 # Hey, I'm Carolus 👋
 
-**Full-Stack Developer from Finland**
+**Full-Stack Developer · IT student at Haaga-Helia · Helsinki, Finland**
 
-I build modern web applications, backend systems, and AI-powered tools.  
-Currently studying software development and always shipping side projects.
+I build web apps, backend APIs and AI tools, and I run a small web studio, [Palin Web](https://palinweb.fi), that makes websites for local businesses.
+
+🔎 **Open to a software development internship from January 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroluspalin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caroluspalin@icloud.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caroluspalin)
+[![Palin Web](https://img.shields.io/badge/palinweb.fi-1F3FD1?style=flat&logo=googlechrome&logoColor=white)](https://palinweb.fi)
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 Featured projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**Lead-Generator**](https://github.com/Caroluspalin/Lead-Generator) | The sales tool behind Palin Web: finds and scores local businesses, analyses their websites, generates demo sites and outreach. In real use. | React, TypeScript, FastAPI, Supabase, Cloudflare R2/Workers, Google Places API, OpenAI |
+| [**Enterprise-RAG-Framework**](https://github.com/Caroluspalin/Enterprise-RAG-Framework) | Chat with your company PDFs. Answers come with source citations; the LLM can be swapped between OpenAI, Claude and Ollama. | FastAPI, LangChain, ChromaDB, Next.js, Auth.js, pytest, Ragas, GitHub Actions |
+| [**grocery-agent**](https://github.com/Caroluspalin/grocery-agent) | AI agent that builds grocery lists for a diet and budget with a custom tool-use loop. | Python, LLM tool calling, SQLite |
+| [**GolfTracker**](https://github.com/Caroluspalin/GolfTracker) | Log golf rounds and see stats relative to par, with role-based access. | Java, Spring Boot, Spring Security, PostgreSQL |
+| [**AbsenceCalculator**](https://github.com/Caroluspalin/AbsenceCalculator) | Planner for students juggling studies and shifts: absence limits and projected income in one view. | React, TypeScript, Supabase, Tailwind |
+| [**sql-playground**](https://github.com/Caroluspalin/sql-playground) | SQL practice in the browser with 30 auto-checked exercises, no backend. | React, TypeScript, sql.js (WebAssembly) |
+
+🌐 Live: [palinweb.fi](https://palinweb.fi) · [Palin Cuts booking demo](https://caroluspalin.github.io/BookingSystem/index.html)
+
+---
+
+### 🛠 Tech stack
 
 **Languages**
 
@@ -31,45 +47,54 @@ Currently studying software development and always shipping side projects.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 
 **Backend & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+
+**AI / LLM**
+
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat&logoColor=white)
 
-**AI / ML**
+**Testing, DevOps & Cloud**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-F59E0B?style=flat&logoColor=white)
-
-**Tools**
-
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages_·_R2_·_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🌱 Right now
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Caroluspalin&theme=tokyonight&hide_border=true&background=00000000&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" />
+- Finishing my last courses (testing, test automation, databases, NoSQL, ML & AI software development)
+- Growing **Palin Web** and its sales tool
+- I build with AI tools (Claude Code, Cursor) and make a point of understanding and being able to explain every line I ship
 
 ---
 
 <div align="center">
 
-*Currently learning Java (Spring Boot), deepening my React + TypeScript skills, and exploring AI/ML with Python.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caroluspalin/Caroluspalin/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Caroluspalin/Caroluspalin/output/github-snake.svg" />
+</picture>
 
 </div>
