@@ -3,24 +3,23 @@
 # Carolus Palin
 
 Full-stack developer and IT student at Haaga-Helia, Helsinki.
-I also run [Palin Web](https://palinweb.fi), building websites for small local businesses.
 
 Looking for a software development internship starting January 2027.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroluspalin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caroluspalin@icloud.com)
-[![Palin Web](https://img.shields.io/badge/palinweb.fi-1F3FD1?style=flat&logo=googlechrome&logoColor=white)](https://palinweb.fi)
 
 </div>
 
 ### Projects
 
-- **[Lead-Generator](https://github.com/Caroluspalin/Lead-Generator)** – sales tool I use for Palin Web. Finds local businesses, scores them and generates demo sites. React, FastAPI, Supabase, Cloudflare.
+- **[Lead-Generator](https://github.com/Caroluspalin/Lead-Generator)** – lead generation tool for web freelancers. Finds local businesses, scores them and generates demo sites. React, FastAPI, Supabase, Cloudflare.
 - **[Enterprise-RAG-Framework](https://github.com/Caroluspalin/Enterprise-RAG-Framework)** – chatbot for internal PDFs with source citations. FastAPI, LangChain, ChromaDB, Next.js.
 - **[grocery-agent](https://github.com/Caroluspalin/grocery-agent)** – AI agent that builds grocery lists for a diet and budget. Python, SQLite.
 - **[GolfTracker](https://github.com/Caroluspalin/GolfTracker)** – golf round tracker. Java, Spring Boot, PostgreSQL.
 
 More in my [repositories](https://github.com/Caroluspalin?tab=repositories).
+
 ### Tech
 
 **Languages**
@@ -68,11 +67,10 @@ More in my [repositories](https://github.com/Caroluspalin?tab=repositories).
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caroluspalin/Caroluspalin/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Caroluspalin/Caroluspalin/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caroluspalin/Caroluspalin/output/github-snake-dark.svg?v=2" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Caroluspalin/Caroluspalin/output/github-snake.svg?v=2" />
 </picture>
