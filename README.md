@@ -4,10 +4,15 @@
 
 Full-stack developer and IT student at Haaga-Helia, Helsinki.
 
+Side project: [palinweb.fi](https://palinweb.fi) – website templates and demo sites for small local businesses.
+
+
 Looking for a software development internship starting January 2027.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroluspalin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caroluspalin@icloud.com)
+[![palinweb.fi](https://img.shields.io/badge/palinweb.fi-1F3FD1?style=flat&logo=googlechrome&logoColor=white)](https://palinweb.fi)
+
 
 </div>
 
